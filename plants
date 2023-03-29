@@ -1,0 +1,9 @@
+gets_sunshine = false
+ounces_of_water = 12
+
+if gets_sunshine == true && ounces_of_water >= 10
+    puts "Congrats. You kept your plant alive!" 
+else 
+    puts "Your plant died, try again"
+end
+
